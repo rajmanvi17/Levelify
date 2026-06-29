@@ -1,8 +1,10 @@
-> 🚀 **Looking for your first open-source contribution?**
+> [!NOTE]
+> ### 🚀 **Looking for your first open-source contribution?**
 >
-> Check the **Issues** tab for `good first issue` labels and start contributing today!
+> ▶️ Check the <ins>**Issues**</ins> tab for `good first issue` labels and start contributing today!
 
-<p align="center">
+
+<p align="left">
   <img src="https://img.shields.io/github/stars/rajmanvi17/Levelify" />
   <img src="https://img.shields.io/github/forks/rajmanvi17/Levelify" />
   <img src="https://img.shields.io/github/issues/rajmanvi17/Levelify" />
@@ -10,16 +12,16 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
   <img src="https://img.shields.io/github/contributors/rajmanvi17/Levelify" />
   <img src="https://img.shields.io/github/issues-pr/rajmanvi17/Levelify" />
-  <img src="https://img.shields.io/github/last-commit/rajmanvi17/Levelify" /> 
+  <img src="https://img.shields.io/github/last-commit/rajmanvi17/Levelify" />
 </p>
 
+---
 
 # 🚀 Levelify - Learn Better, Grow Smarter.
 
-<p align="center">
-  <strong>AI-Powered Learning & Career Growth Platform</strong><br/>
-  A modern productivity & learning ecosystem built to help students and developers track progress, master DSA, organize resources, improve consistency, and grow with AI-powered guidance.
-</p>
+  ### :large_blue_diamond: AI-Powered Learning & Career Growth Platform :large_blue_diamond:<br/> 
+  > A modern productivity & learning ecosystem built to help students and developers track progress, master DSA, organize resources, improve consistency, and grow with AI-powered guidance.
+  <br/>
 
 <p align="center">
 
@@ -42,7 +44,6 @@
 - 💻 [GitHub Repository](https://github.com/rajmanvi17/Levelify)
 
 ---
-
 # ✨ About Levelify
 
 **Levelify** is an AI-powered smart learning and career growth platform designed to help students and developers stay consistent, organized, and placement-ready.
@@ -62,13 +63,12 @@ all in one seamless and beautiful experience.
 
 The platform is built with a **modern SaaS-inspired UI**, smooth interactions, glassmorphism design, and scalable frontend architecture.
 
-## 🎯 Why Levelify?
+---
+# 🎯 Why Levelify?
 
 Students often switch between multiple platforms for notes, coding practice, roadmaps, certifications, and learning resources. This makes learning fragmented and difficult to manage.
 
 **Levelify** brings everything together into a single AI-powered platform that helps learners stay organized, consistent, and placement-ready.
-
----
 
 ## 📱 Features (10 Modules)
 
@@ -92,49 +92,41 @@ Students often switch between multiple platforms for notes, coding practice, roa
 
 ![Login](./screenshots/login.png)
 
----
 
 ## 📝 Register Page
 
 ![Register](./screenshots/register.png)
 
----
 
 ## 🏠 Dashboard
 
 ![Dashboard](./screenshots/dashboard.png)
 
----
 
 ## 🗺️ Roadmap Planner
 
 ![Roadmap](./screenshots/roadmap.png)
 
----
 
 ## 💻 DSA Tracker
 
 ![DSA](./screenshots/dsa.png)
 
----
 
 ## 📈 Analytics Dashboard
 
 ![Analytics](./screenshots/analytics.png)
 
----
 
 ## 📝 Smart Notes
 
 ![Notes](./screenshots/notes.png)
 
----
 
 ## 🔗 Resource Manager
 
 ![Resources](./screenshots/resources.png)
 
----
 
 ## 🤖 AI Assistant
 
@@ -142,7 +134,7 @@ Students often switch between multiple platforms for notes, coding practice, roa
 
 ---
 
-## 🚀 Quick Start
+# 🚀 Quick Start
 
 ```bash
 # 1. Install dependencies
@@ -157,6 +149,7 @@ npm run dev
 Email:    demo@levelify.app
 Password: demo123
 ```
+<br/>
 
 ## 📦 Build & Deploy
 
@@ -170,9 +163,9 @@ npm run preview
 # Deploy to Vercel
 npx vercel --prod
 ```
+<br/>
 
----
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```bash
 Levelify/
@@ -216,8 +209,7 @@ Levelify/
 │── vite.config.js
 │── vercel.json
 ```
-
----
+<br/>
 
 ## 🎨 Design System
 
@@ -226,8 +218,7 @@ Levelify/
 - **Dark mode**: Tailwind `dark:` prefix, toggled via class on `<html>`
 - **Glass cards**: `bg-white/70 dark:bg-white/5 backdrop-blur-md`
 - **Animations**: Framer Motion — page transitions, stagger, hover lifts
-
----
+<br/>
 
 ## ⚡ Performance
 
@@ -238,6 +229,7 @@ Levelify/
 - Tailwind CSS purging — only used classes in bundle
 - Target bundle: **< 200KB** initial JS (gzipped)
 - Manual chunk splitting: react-vendor | motion | charts | store
+<br/>
 
 ## 🏗️ Architecture
 
@@ -262,7 +254,7 @@ Future Backend API
    ▼
 Database
 ```
----
+<br/>
 
 ## 🔌 Backend Integration Checklist
 
@@ -279,8 +271,8 @@ When handing off to backend developer, implement these endpoints:
 | Streak | `GET /streak` `POST /streak/log` |
 | Timer | `POST /sessions` `GET /sessions/analytics` |
 | AI | `POST /ai/chat` `GET /ai/suggestions` |
+<br/>
 
----
 
 ## 🚢 Vercel Deployment
 
@@ -291,8 +283,8 @@ When handing off to backend developer, implement these endpoints:
 5. Output directory: `dist`
 
 The `vercel.json` in the root handles SPA routing automatically.
-
----
+<br/>
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -309,6 +301,7 @@ The `vercel.json` in the root handles SPA routing automatically.
 | date-fns | 3.x | Date utilities |
 | sonner | 1.x | Toast notifications |
 | react-hook-form | 7.x | Form handling |
+<br/>
 
 ---
 
@@ -322,6 +315,7 @@ The `vercel.json` in the root handles SPA routing automatically.
 | 🧠 Smarter AI Assistant | Personalized roadmap recommendations |
 | 📅 Smart Scheduling | AI-powered study planning |
 | 📊 Advanced Analytics | Better productivity & learning insights |
+<br/>
 
 ---
 
