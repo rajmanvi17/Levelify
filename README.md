@@ -389,7 +389,4 @@ Your support helps improve the project.
 <p align="center">
 Made with ❤️ by <strong>Manvi Raj</strong>
 
-⭐ If you like this project, don't forget to star the repository.
-</p>
-
 
